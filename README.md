@@ -3,16 +3,6 @@
 ## Overview
 This project is an individual coursework assignment for the module **DOC 313 Introduction to Programming in Python** at the Informatics Institute of Technology. The assignment, submitted by **Nemsara Ranaba** (Student ID: 20221241), implements a Mastermind-style deduction game where players guess a hidden sequence of colors represented by numbers.
 
-## Project Details
-- **Module**: DOC 313 Introduction to Programming in Python - P1
-- **Module Leader**: Mr. Sudharshan Welihinda
-- **Assignment Number**: 1
-- **Assignment Type**: Individual Coursework
-- **Submission Date**: 12th December 2022
-- **Deadline**: On or before 9:00 AM
-- **Student Name**: Nemsara Ranaba
-- **Student ID**: 20221241
-
 ## Game Description
 The Mastermind game involves:
 - A code maker who secretly selects four colored pegs (represented by numbers 1–6, mapped to colors: White, Blue, Red, Yellow, Green, Purple).
